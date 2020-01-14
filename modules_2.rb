@@ -19,5 +19,4 @@ Mymodule.test
 module Mymodule
   remove_method :mymethod
 end
-include Mymodule
-Mymodule.mymethod
+
