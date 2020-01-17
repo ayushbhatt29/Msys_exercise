@@ -13,3 +13,4 @@ temp1=[]
 temp1.push(arr1.pop) until arr1.empty?
 arr1=temp1
 puts arr1.join(",")
+ 
