@@ -6,4 +6,4 @@ end
 
 d=customer.new("paul","pune")
 puts d.name
-puts d.greeting
+puts d.greeting 
