@@ -12,7 +12,7 @@ class Cswebsite
     @website=website
   end
 end
-g=Cswebsite.new "google.com"
+g=Cswebsite.new "google.com" 
 p g.website
 g.website="youtube.com"
 p g.website
