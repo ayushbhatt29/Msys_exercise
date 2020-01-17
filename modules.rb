@@ -17,6 +17,6 @@ when 1
   Tools.say_hi(n)
 when 2
   Tools.say_bye(n)
-else
+else 
   puts "Invalid option"
 end
