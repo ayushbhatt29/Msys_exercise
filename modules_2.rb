@@ -18,5 +18,5 @@ Mymodule.test
 
 module Mymodule
   remove_method :mymethod
-end
+end 
 
