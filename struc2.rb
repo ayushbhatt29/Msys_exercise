@@ -9,4 +9,4 @@ end
 
 
 a = G.new("Ruby", "Struct")
-puts a.gfg
+puts a.gfg 
